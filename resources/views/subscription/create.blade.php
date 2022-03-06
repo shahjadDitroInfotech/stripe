@@ -98,7 +98,7 @@
                   <div class="panel-body">
                      <div class="col-md-12">
                      <div class="form-group">
-                             <a href="{{ route('createAllProducts') }}" <button id="card-button" class="btn btn-lg btn-block btn-success btn-order">Please Create Products First!</button> </a>
+                             <a href="{{ route('createAllProducts') }}" <button id="card-button" class="btn btn-lg btn-block btn-success btn-order">Please click hrer to Create Products First!</button> </a>
                            </div>
                      </div>
                   </div>
